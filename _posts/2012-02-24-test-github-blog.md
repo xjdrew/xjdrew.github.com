@@ -1,11 +1,11 @@
----
+ï»¿---
 layout: post
-title: test github blog¦
+title: test github blog?
 ---
 
 {{ page.title }}
 ================
 
-<p class="meta">2012-02-14 23:30 - ¹ãÖİ</p>
+<p class="meta">2012-02-14 23:30 - å¹¿å·</p>
 
-ÓÃgithubĞ´²©¿ÍÃ»ÖĞ²»×ãµÄ¾ÍÊÇ²©¿ÍÉú³ÉÆ÷Ö»ÄÜÑ¡jekyll¡£
+ç”¨githubå†™åšå®¢æ²¡ä¸­ä¸è¶³çš„å°±æ˜¯åšå®¢ç”Ÿæˆå™¨åªèƒ½é€‰jekyllã€‚
