@@ -14,9 +14,9 @@ jekyll post文件有两部分组成:
 
 - YAML格式的jekyll头
 
-- 文章正文
+- a文章正文
 
-> 文章正文是一个Liquid template。生成静态文件时，jekyll先解析jekyll 头, 然后使用解析出来的变量把文章正文渲染成纯文本。然后把生成的纯文本再使用markdown,或者textile解析器生成html。
+> a文章正文是一个Liquid template。生成静态文件时，jekyll先解析jekyll 头, 然后使用解析出来的变量把文章正文渲染成纯文本。然后把生成的纯文本再使用markdown,或者textile解析器生成html。
 
 
 * YAML Front Matter: [https://github.com/mojombo/jekyll/wiki/yaml-front-matter](https://github.com/mojombo/jekyll/wiki/yaml-front-matter)
