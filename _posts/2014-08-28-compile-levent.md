@@ -34,7 +34,7 @@ windows系统下面有mingw, cygwin等编译环境可选，这里只介绍使用
 3. 编译
 根据你的情况微调vcproj，比如64bit，生成文件的目录等。默认会编译出32bit的dll，并放置在Debug目录下。编译成功之后，把Debug目录下生成的levent.dll, struct.dll拷贝到levent根目录下，方便使用。
 
-测试
+test
 -----
 levent提供了tests和examples，可以使用下面两个用例来验证编译成功：
 
