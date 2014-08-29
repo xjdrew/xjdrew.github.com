@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: 用github写博客
 ---
