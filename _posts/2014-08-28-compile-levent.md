@@ -47,7 +47,7 @@ lua tests/test_socket.lua
 * dns query
 
 ```
-lua tests/test_socket.lua
+lua example/dns_mass_resolve.lua
 ```
 
 feedback
